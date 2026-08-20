@@ -16,6 +16,7 @@ const STEP_SPEED    = 1;
 const JUMP_DURATION = 500;
 
 bot.on('spawn', () => {
+  bot.chat('/login goybeam')
   setTimeout(() => {
     bot.setControlState('sneak', true);
     console.log(`✅ ${config.botUsername} is Ready!`);
