@@ -3,5 +3,5 @@
   "serverPort": 25565,
   "botUsername": "HITLER_BOT",
   "botChunk": 1,
-  "serverVersion": false
+  "serverVersion": "1.21.11"
 }
